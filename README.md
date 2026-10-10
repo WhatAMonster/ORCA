@@ -63,7 +63,7 @@ Global leaderboards often demotivate learners: when a student is ranked `#293828
 Rather than hardcoding arbitrary chat rooms, ORCA adopts an **adaptive community topology** balanced between default discipline/subject wise servers and user-driven servers.
 
 ### 3.1 The 5 Persistent Core Commons
-ORCA maintains **5 persistent subject servers** that exist permanently for everyone *(however the scope is byond just 5 disciplines - with plans to include a diverse array of subjects and their Inter-disciplinary subjects.)*
+ORCA maintains **5 persistent subject servers** that exist permanently for everyone *(however the scope is beyond just 5 disciplines - with plans to include a diverse array of subjects and their Inter-disciplinary subjects.)*
 They serve as global anchor communities for specific subjects.
 
 ### 3.2 User-Driven & On-Demand Community Nodes
@@ -108,7 +108,7 @@ Building a community for students demands uncompromising standards of safety, pr
 
 ## 6. Progression
 
-ORCA also maintains an balance between persistent achievements and transistory achievemnets throuch ORCA COINS (OC)
+ORCA also maintains a balance between persistent achievements and transistory achievemnets throuch ORCA COINS (OC)
 
 - Orca Coins are permanent Coins attached to a students account that compound over their account life.
 - These Orca Coins are saved in a dual manner with week's total and life-time total such that *efforts irrespective of time periods can be respected*.
