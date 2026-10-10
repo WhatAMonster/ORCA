@@ -1,0 +1,84 @@
+
+body{
+    background-image:linear-gradient(-90deg, #fff 50%, #202020 50%);
+    display:flex;
+    flex-direction:row;
+    overflow-y:hidden;
+}
+hero{
+    color:transparent;
+    font-family:sans-serif;
+    font-size:40px;
+    -webkit-background-clip:text;
+    background-size:cover;
+    -webkit-text-stroke: 1px #fff;
+    margin-left:85px;
+    font-weight:bold;
+}
+main{
+    margin:10px;
+    width:47% !important;
+    padding:10px;
+    border-radius:10px;
+    box-shadow:0 0 120px #000;
+    min-height:90vh;
+    background-image:url('./Media/bg-full.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.tag {
+    font-size:10px;
+    color:#eee;
+    font-family:monospace;
+    -webkit-text-stroke: 0px;
+    position:absolute;
+    margin-left:98px;
+}
+.logo {
+    width:20%;
+    position:absolute;
+    top:1px;
+    left:1px;
+    margin:0px;
+}
+.G-logo {
+    width:10%;
+}
+.lsd-big{
+    font-size:50px;
+    font-family:monospace;
+    font-weight:bold;
+    color:rgba(12,2,2,0.4);
+    -webkit-text-stroke: 1px #aaaaff;
+    text-align:center;
+}
+#lg-google{
+    font-family:sans-serif;
+    color:#fff;
+    background-color:#202020;
+    border:none;
+    box-shadow:0 0 30px #000;
+    border-radius:5px;
+    font-size:20px;
+    width:50%;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    padding:5px;
+    padding-top:10px;
+    padding-bottom:10px;
+    user-select:none;
+    cursor:pointer;
+    margin-left:23.5%;
+    margin-top:200px;
+}
+.vid-shw{
+    border-radius:15px;
+    margin-left:74px;
+}
+.vid{
+    border-radius:15px !important;
+    height:98vh !important;
+    box-shadow:0 0 30px #000;
+    filter: contrast(2.15)
+}
