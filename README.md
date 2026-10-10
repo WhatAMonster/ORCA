@@ -12,7 +12,7 @@ In an era saturated with passive video feeds, algorithmic micro-content, and sur
 ### Current Status: Prototype Phase
  ORCA is currently in **Prototype Phase**. 
 
-The current codebase is a frontend only porotype however we have plugged in hooks for quick backend integration too.
+The current codebase is a frontend only prototype however we have plugged in hooks for quick backend integration too.
 
 ### A Mapping of how we visualise ORCA
 
