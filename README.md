@@ -1,4 +1,4 @@
-# ORCA — A Vision to shape modern education.
+# ORCA — A Vision to shape the modern education.
 
 ---
 
@@ -90,32 +90,29 @@ In traditional chat applications, great explanations drown under message scroll 
 Building a community for students demands uncompromising standards of safety, privacy, and fair play.
 
 
-### 6.1 Student & Minor Safety: 
+### 5.1 Student & Minor Safety: 
 - **No Unsolicited Direct Messaging**: Direct peer interactions are confined to public server channels and established squad spaces. Unsolicited, private 1-on-1 messaging between unverified accounts is disabled by default to safeguard younger students, which would require an request/trust approval from both sides - but in-chat filters will remain.
 - **Community Moderation & Reporting**: Guild and community leaders possess real-time moderation capabilities (muting, temporary time-outs, and report routing). Automated filters intercept toxic language, harassment, and inappropriate media.
 
-### 6.2 Academic Integrity & Anti-Cheating
+### 5.2 Academic Integrity & Anti-Cheating
 - **Server-Side Verification**: In production, all answer validation, time auditing, and point computation are conducted strictly server-side.
 - **Dynamic Parameters**: Numerical challenges are modified per-user basis.
 - **Integrity Tracking**: Students are audited against statistical anomalies, unassisted solve timings, and attempt patterns to ensure legitimate achievement.
 
-### 6.3 Privacy & Data Sovereignty
+### 5.3 Privacy & Data Sovereignty
 - **Minimal Telemetry**: ORCA respects student attention and privacy. Onboarding requires only an optional display handle and avatar.
 - **Friend Discovery via User Codes**: Friend requests can be initiated securely through 8-character rotating friend codes, eliminating the need to expose private email addresses or phone numbers.
 - **Full Data Sovereignty**: Students retain unspoken control over their academic records, including on demand data removal.
 
 ---
 
-## 7. Progression
+## 6. Progression
 
 ORCA also maintains an balance between persistent achievements and transistory achievemnets throuch ORCA COINS (OC)
 
 - Orca Coins are permanent Coins attached to a students account that compound over their account life.
 - These Orca Coins are saved in a dual manner with week's total and life-time total such that *efforts irrespective of time periods can be respected*.
-
 ---
-
-## 8. Our Final Words
+## 7. Our Final Words
 
 ORCA is more than a question bank or a study chatroom—it is an ecosystem crafted to revive genuine intellectual curiosity.ORCA creates a space where students do not merely prepare for tests; they learn to think deeply, solve curiously, and build lasting intellectual camaraderie.
-
