@@ -1,0 +1,13 @@
+[33m336ab9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: Branch: renamed refs/heads/temp-clean-history to refs/heads/main
+[33m336ab9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{2}: cherry-pick: ORCA -Setting up
+[33m98a77cf[m HEAD@{3}: cherry-pick: ORCA -Setting up
+[33m4de97d7[m HEAD@{4}: commit: ORCA -Setting up
+[33m129e85e[m HEAD@{5}: commit: ORCA -Setting up
+[33m21e1df2[m HEAD@{6}: commit: fixing typos
+[33m2d3e493[m HEAD@{7}: commit: fixing typos
+[33m211285b[m HEAD@{8}: commit: refining readme
+[33m6c60da1[m HEAD@{9}: commit: cleaning up
+[33m3dd0f38[m HEAD@{10}: commit: writing readme
+[33m0c4184a[m HEAD@{11}: pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
+[33md0232cf[m HEAD@{12}: Branch: renamed refs/heads/master to refs/heads/main
+[33md0232cf[m HEAD@{14}: commit (initial): ORCA
